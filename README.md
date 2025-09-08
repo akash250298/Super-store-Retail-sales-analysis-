@@ -1,77 +1,103 @@
-# Super-store-Retail-sales-analysis-
-## Tableau Project By Akash Kharche ##
+# 💡 Tableau Project by Akash Kharche
 
-Here’s an attractive, emoji-packed template plus storytelling insights for your GitHub README, based on your dashboard and its story slides:[1][2][3][4]
+# **Executive Retail Sales Analytics Dashboard**
+An interactive Tableau dashboard analyzing Superstore retail sales to uncover insights on regional performance, profitability, and product-driven trends.
 
-***
+## 📂 Project Link
+<a href ="https://public.tableau.com/shared/9CF85RP59?:display_count=n&:origin=viz_share_link
+">Executive Retail Sales Analytics</a>
 
-# 📊 Executive Retail Sales Dashboard – Atlantic Superstore
+---
 
-## 🚀 Performance at a Glance
-- 💰 **Total Sales:** $1.34M
-- 📦 **Units Sold:** 22K
-- 🏆 **Total Profit:** $175K
-- 💸 **Avg. Discount Rate:** 15.57%
+## 📌 Overview
+This project presents an **interactive Tableau dashboard** analyzing **Superstore Retail Sales data** across different dimensions such as **Region, City, Category, and Time**.
 
-***
+The goal of this analysis is to provide executives with actionable insights on **sales performance, profitability, customer discounts, and regional growth patterns**.  
 
-## 🌍 Regional Highlights
-- 🟢 **Central Region** was the only region to exceed its annual sales goal (+$5,098).
-- 🔴 **East Region** missed its goal by the largest margin (-$151,917), with West and South also underperforming.
-- 🙌 Focus on Central’s winning strategies to maximize success across all regions!
-[4]
+The dashboard helps in answering:
+- Which regions and cities are meeting their sales goals?  
+- How does sales & profit trend over time?  
+- Which product categories and sub-categories drive performance?  
+- Where are we losing profit despite strong sales?  
 
-***
+---
 
-## 🏙️ City Performance
-- 🌟 **New York City** emerged as the best performer, leading sales and profits nationwide!
-- 🚩 Several cities in the South and Central regions reported negative profits—prime areas for efficiency improvement.
-[2]
+## 📂 Project Files
+- `Retail_Sales_Analysis.twbx` → Tableau packaged workbook (open in Tableau Desktop/Public).  
+- `Dashboard.png` → Main Executive Dashboard (overview).  
+- `DataStory-1.png`, `DataStory-2.png`, `DataStory-3.png` → Story points highlighting **Central region success, NYC performance, and November peak sales**.  
 
-***
+---
 
-## 📅 Monthly Trends
-- 🎉 **November and December** each delivered the year’s strongest sales—holiday shopping drives dramatic spikes!
-- 📈 Monthly performance shows multiple peaks, indicating impact of targeted promotions and seasonal trends.
-[3]
+## 📊 Key Metrics (KPIs)
+1. **YTD Sales** – Total sales revenue year-to-date.  
+2. **YTD Profit** – Net profit across all orders.  
+3. **YTD Quantity** – Units sold year-to-date.  
+4. **YTD Average Discount** – Average discount % offered.  
+5. **Sales vs Goal by Region** – Performance against targets.  
+6. **Sales & Profit by City** – Geographic profitability analysis.  
+7. **Sales & Profit by Month** – Seasonality and monthly trends.  
+8. **Sales & Profit by Category & Sub-Category** – Product-driven analysis.  
+9. **High/Low Performing Cities** – Spotting profitable and loss-making cities.  
+10. **Regional Contribution to Overall Sales** – Identifying key growth markets.  
 
-***
+---
 
-## 🛒 Category Insights
-- 📱 **Technology** products (especially Phones) topped profit charts ($184,302.55).
-- 🪑 Furniture and Office Supplies had mixed results—some segments thriving, others lagging.
+## 📈 Dashboard Insights
+### 🔹 1. Executive Dashboard
+- **Overall Performance**:
+  - $1.34M YTD Sales.
+  - $175K YTD Profit.
+  - 22K YTD Units.
+  - 15.57% YTD Avg_Disc. 
+- **Regional Performance**:  
+  - Central region achieved the target.  
+  - East & West regions are underperforming.  
+  - South is slightly below expectations.  
+- **Top Cities** : NYC and California cities perform strongly.  
+- **Category Analysis** : Chairs, Phones, and Copiers dominate sales.  
 
-***
+### 🔹 2. Data Story Highlights
+- **Central Region Achieved Target** → Central outperformed other regions with positive profit contribution.  
+- **NYC as Best Performer** → New York City stands out with consistent growth and profitability.  
+- **November Peak Sales** → November 2018 marked the **highest monthly sales**, driven by strong promotions and seasonal demand.  
 
-## ✅ Quick Takeaways
-- 💪 Technology, led by Phones, is a major growth area.
-- 🚨 Central region’s success should inspire cross-regional strategy.
-- 📌 Underperformance in East region and certain cities signals need for action.
-- 📆 Strategic stock and marketing for year-end boosts profits!
+---
 
-***
+## 📷 Visualizations
+- **Dashboard View**  
+  ![Dashboard](https://github.com/akash250298/Super-store-Retail-sales-analysis-/blob/main/Story%201%20Starting%20point.png)  
 
-# 📖 Storytelling Insights
+- **Data Story 1 – Central Region**  
+  ![Central Region](https://github.com/akash250298/Super-store-Retail-sales-analysis-/blob/main/Story%202%20Central%20Region%20Achieved%20Target.png)  
 
-1. **Starting Point:**  
-   The year begins with ambitious targets across four regions and product categories, driven by Atlantic Superstore’s commitment to growth.[1]
+- **Data Story 2 – NYC Best Performer**  
+  ![NYC Performance](https://github.com/akash250298/Super-store-Retail-sales-analysis-/blob/main/Story%203%20NYC%20was%20the%20best%20performer.png)  
 
-2. **Central Region Wins:**  
-   Among all, only Central meets and exceeds expectations, showing that focused efforts can pay off.[4]
+- **Data Story 3 – November Peak Sales**  
+  ![November Sales](https://github.com/akash250298/Super-store-Retail-sales-analysis-/blob/main/Story%204%20Nov%20Marked%20the%20highest%20sales.png)  
 
-3. **NYC Takes the Spotlight:**  
-   On the city level, New York City dazzles as top performer, leading in sales and profitability.[2]
+---
 
-4. **Seasonal Surges:**  
-   November and December paint a picture of retail’s power months, reminding us to prepare for seasonal demand spikes.[3]
+## 🛠️ Tools & Technologies
+- **Tableau Desktop / Tableau Public** – Data visualization and storytelling.  
+- **Superstore Dataset** – Sample retail sales dataset (product, region, customer, order details).  
 
-5. **Lessons and Opportunities:**  
-   As the dashboard reveals winners and laggards across regions and categories, it sets the scene for smarter decisions, targeted strategies, and bigger wins in the year ahead.[1]
+---
 
-***
+## 🚀 How to Use
+1. Clone or download this repository.  
+2. Open the file `Retail_Sales_Analysis.twbx` in Tableau Desktop or Tableau Public.  
+3. Interact with filters (Region, City, Category, Time) to explore insights.  
 
-> _Use these visual stories to guide decisions, align teams, and fuel next year’s growth! 🚀_
+---
 
-***
+## 📌 Future Improvements
+- Add **forecasting models** for sales prediction.  
+- Include **customer segmentation** analysis.  
+- Build **profitability heatmaps** at state/city level.  
 
+---
 
+## 📜 License
+This project is for **educational and portfolio purposes** only. The dataset used is the **Tableau Superstore Sample Dataset**.
