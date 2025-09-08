@@ -76,7 +76,7 @@ The dashboard helps in answering:
 
 
 - **Data Story 3 – November Peak Sales**  
-![Image](https://github.com/akash250298/Super-store-Retail-sales-analysis-/blob/main/Story%203%20NYC%20was%20the%20best%20performer.png)
+![Image](https://github.com/akash250298/Super-store-Retail-sales-analysis-/blob/main/Screenshots/Story%204%20Nov%20Marked%20the%20highest%20sales.png)
 
 ---
 
