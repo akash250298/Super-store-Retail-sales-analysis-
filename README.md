@@ -66,17 +66,17 @@ The dashboard helps in answering:
 
 ## 📷 Visualizations
 - **Dashboard View**  
-  <img width="818" height="471" alt="Image" src=" https://github.com/akash250298/Super-store-Retail-sales-analysis-/blob/main/Story%201%20Starting%20point.png" />
+![Image](https://github.com/akash250298/Super-store-Retail-sales-analysis-/blob/main/Dashboard%20image%20ss.png)
 
 - **Data Story 1 – Central Region**  
-  <img width="818" height="471" alt="Image" src=" https:// https://github.com/akash250298/Super-store-Retail-sales-analysis-/blob/main/Story%202%20Central%20Region%20Achieved%20Target.png" />  
+![Image](https://github.com/akash250298/Super-store-Retail-sales-analysis-/blob/main/Story%202%20Central%20Region%20Achieved%20Target.png)
 
 - **Data Story 2 – NYC Best Performer**  
-  <img width="818" height="471" alt="Image" src=" https://  https://github.com/akash250298/Super-store-Retail-sales-analysis-/blob/main/Story%203%20NYC%20was%20the%20best%20performer.png" />  
+![Image](https://github.com/akash250298/Super-store-Retail-sales-analysis-/blob/main/Story%203%20NYC%20was%20the%20best%20performer.png)
 
 
 - **Data Story 3 – November Peak Sales**  
-  <img width="818" height="471" alt="Image" src=" https://   https://github.com/akash250298/Super-store-Retail-sales-analysis-/blob/main/Story%204%20Nov%20Marked%20the%20highest%20sales.png" />  
+![Image](https://github.com/akash250298/Super-store-Retail-sales-analysis-/blob/main/Story%203%20NYC%20was%20the%20best%20performer.png)
 
 ---
 
