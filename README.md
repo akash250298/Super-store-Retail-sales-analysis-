@@ -72,7 +72,7 @@ The dashboard helps in answering:
 ![Image](https://github.com/akash250298/Super-store-Retail-sales-analysis-/blob/main/Screenshots/Story%202%20Central%20Region%20Achieved%20Target.png)
 
 - **Data Story 2 – NYC Best Performer**  
-![Image](https://github.com/akash250298/Super-store-Retail-sales-analysis-/blob/main/Story%203%20NYC%20was%20the%20best%20performer.png)
+![Image](https://github.com/akash250298/Super-store-Retail-sales-analysis-/blob/main/Screenshots/Story%203%20NYC%20was%20the%20best%20performer.png)
 
 
 - **Data Story 3 – November Peak Sales**  
